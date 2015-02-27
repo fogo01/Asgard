@@ -1,5 +1,9 @@
 itemGroup.asgard=First Mod
-tile.asgard:Obelisk.name=Obelisk
-item.asgard:Mjolner.name=Mjölner
+tile.asgard:Obelisk.name=[WIP] Obelisk
+item.asgard:Mjolner.name=[WIP] Mjölner
 item.asgard:Handle.name=Diamond Plated Handle
 item.asgard:Star.name=Diamond Infused Star
+item.asgard:Plate.name=Diamond Plate
+item.asgard:Horn.name=Horn
+item.asgard:Helmet.name=Helmet
+item.asgard:Hammer.name=Hammer
